@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 http://www.freertos.org/FreeRTOS-Plus/FreeRTOS_Plus_IO/Demo_Applications/LPCXpresso_LPC1769/NXP_LPC1769_Demo_Description.shtml
 http://www.runoob.com/w3cnote/git-gui-window.html
 NO.3
