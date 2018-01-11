@@ -2,9 +2,6 @@ http://www.freertos.org/FreeRTOS-Plus/FreeRTOS_Plus_IO/Demo_Applications/LPCXpre
 http://www.runoob.com/w3cnote/git-gui-window.html
 NO.3
 NO.4
-<<<<<<< HEAD
 NO.5
 NO.6
-=======
-NO.5
->>>>>>> 9e15cc1... NO.5
+
